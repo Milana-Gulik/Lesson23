@@ -11,6 +11,7 @@ public class MarkNote {
         this.mark = mark;
     }
 
+
     public double getMark() {
         return mark;
     }
